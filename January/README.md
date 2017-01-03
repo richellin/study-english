@@ -1,5 +1,68 @@
 ## January
 
+### 01/03/2017
+```
+허리가 또 아프네.
+>My back hurts again
+
+어쩌다 다쳤어요?
+>How did you hurt it?
+
+모르겠어요. 평소와 다른 걸 한 건 없는데요.
+>I don't know. I didn't do anything out of the ordinary.
+
+척추 지압사한테 가 보는 게 어때요? 아니면 그냥 안마라도 받아보세요.
+>Why don't you go see a chiropractor? Or you could just get a massage.
+
+네, 그래야겠네요.
+>Yeah, perhaps I should
+
+저 그릇들 치우려던 참이었어요? 여보, 내가 할게요.
+>Were you about to clear those dishes? Let me do that, Honey.
+
+어쩌다가 ~를 다쳤어?
+>How did you hurt ~?
+
+어쩌다 손을 다쳤니?
+>How did you hurt your hand?
+
+어쩌다가 다리를 다친 거야?
+>How did you hurt your leg?
+
+어쩌다가 발을 다쳤어?
+>How did you hurt your foot?
+
+특이한 것, 이상한 행동
+>anything out of the ordinary
+
+이상한 행동 하지 마.
+>Don't do anything out of the ordinary
+
+너 뭐 특이한 행동을 한 거니?
+>Did you do anything out of the ordinary?
+
+난 보통 특이한 짓은 안 해.
+>I usually don't do anything out of the ordinary
+
+너 ~하려던 참이었어?
+>Were you about to ~?
+
+너 나한테 전화하려던 참이었니?
+>Were you about to call me?
+
+우리 회사에 오려고 했던 거야?
+>Were you about to visit my office?
+
+그 사람한테 사실대로 말하려고 그랬어?
+>Were you about to tell him the truth?
+
+back : 등,허리
+hurt : 아프다
+ordinary : 보통, 일상적인
+chiropractor : 척추 지압사
+get a massage : 마사지를 받다
+```
+
 ### 01/02/2017
 ```
 제이크, 네 스테이플러 좀 빌릴 수 있을까?
