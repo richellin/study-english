@@ -1,5 +1,77 @@
 ## January
 
+### 01/04/2017
+```
+메트로폴 파라솔에서 봤던 석양은 끝내줬어요.
+>The sunset view from the Metropol Parasol was amazing.
+
+그러게 말이에요. 여태까지 본 것 중에 가장 아름다운 석양이었어요.
+>You can say that again. It was the most beautiful sunset ever.
+
+(한 여자가 뭔가 물어보려고 다가온다.) 실례지만, 이 지도에서 우리가 어디 있는지 아시나요?
+>(A woman approached in a question) Excuse me, do you know where we are on this map?
+
+가만있자… 우리는 바로 여기에 있어요.
+>Let's see... we are right here.
+
+정말 감사합니다. 당신도 여행객이세요?
+>Thank you so much. are you a tourist too?
+
+네, 휴가차 왔어요.
+>Yeah, I'm here on vacation.
+
+아, 저도 그래요. 아무튼, 도와주셔서 감사합니다!
+>Oh, me too. Anyway, Thanks for help!
+
+해가 지는 광경
+>The sunset view
+
+해가 지는 광경이 근사하다.
+>The sunset view is fabulous
+
+일몰의 풍경이 정말 아름다웠어.
+>The sunset view was really beautiful.
+
+여기가 일몰을 즐기기에 가장 좋은 장소야.
+>This is the best spot to enjoy the sunset view
+
+여태까지 제일 ~한 …이네
+>It was the most ~ ever
+
+여태까지 읽은 것 중에서 제일 어려운 소설이었어.
+>It was the most difficult novel ever.
+
+여태까지 본 것 중에서 제일 어려운 문제였어.
+>It was the most difficult question ever.
+
+지금까지 먹어 본 것 중에서 제일 맛있는 식사였어.
+>It was the most delicious meal ever.
+
+휴가 중인, 휴가로
+>on vacation
+
+그분은 지금 휴가 중이십니다.
+>He's away on vacation
+
+나 여태 휴가였어.
+>I've been on vacation
+
+얼마 동안 휴가였어?
+>How long have you been on vacation?
+
+sunset : 저녁 노을
+approach with : ~을 가지고 접근하다.
+tourist : 여행객
+You can say that again : 그러게 말이에여.
+on vacation : 휴가로
+fabulous : 근사하다.
+best spot : 가장 좋은 장소
+right here : 바로 여기
+revert : 되돌아 가다
+amend : 개정[수정]하다
+frequently : 자주
+```
+
 ### 01/03/2017
 ```
 허리가 또 아프네.
