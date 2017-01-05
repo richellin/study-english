@@ -1,5 +1,119 @@
 ## January
 
+### 01/05/2017
+```
+닉, 이번 주말에 뭐 해?
+>Nick, what are you up to this weekend?
+
+딱히 별일은 없는데, 왜?
+>Nothing special, why?
+
+이웃 사람들이랑 내가 텃밭을 만들려고 하는데. 같이 할래?
+>My neighbors and I are planting community garden. Would you like to join us?
+
+아, 내가 얼마든지 도와줄게!
+>yeah, I'd love to help with that
+
+헌옷이랑 장갑만 있으면 돼.
+>All you need is old clothes and gloves
+
+뭘 심으려고 하는데?
+>What are you going to plant?
+
+아직 확실히 정하진 않았어. 아마 상추랑 피망?
+>We haven't decided for sure yet. Maybe some lettuce and bell peppers?
+
+~에 뭐 할 거야?
+>What are you up to ~?
+
+내일 뭐 할 거니?
+>What are you up to tomorrow?
+
+오늘 오후에 뭐 할 거야?
+>What are you up to this afternoon?
+
+일요일에 뭐 할 거야?
+>What are you up to on Sunday?
+
+정말 ~하고 싶다.
+>I'd love to ~
+
+그 소식 정말 듣고 싶다.
+>I'd love to hear the news.
+
+너를 빨리 만나고 싶어.
+>I'd love to see you soon.
+
+내가 그렇게 하고 싶어.
+>I'd love to make it happen.
+
+넌 ~만 있으면 돼.
+>All you need is ~
+
+너한테는 용기만 있으면 돼.
+>All you need is courage.
+
+너에게 필요한 건 시간과 노력이야.
+>All you need is time and effort.
+
+너에게 필요한 건 사랑이야.
+>All you need is love.
+
+
+plant : 심다.
+lettuce : 상추
+bell pepper : 피망
+for sure yet : 아직 확실히
+community garden : 커뮤니티 가든, 공동정원
+courage : 용기
+effort : 노력
+
+
+why you shouldn’t use set(and what you should use instead)
+왜 set을 사용하지 말하야 하는지(그리고 대신에 무엇을 사용해야 하는지)
+
+Everything in the standard C++ library is there for a reason, but it isn't always obvious what that reason is.
+모든 표준 C++ 라이브러리는 다 이유가 있지만, 그 이유가 무엇인지 항상 명확 하지는 않습니다.
+
+The standard isn't a tutorial; it doesn't distinguish between basic, everyday components and ones that are there only for rare and specialized purposes.
+표준은 튜토리얼이 아닙니다.
+기본적인 컴포넌트, 일상적인 컴포넌트, 그리고 드물고 특수한 목적을 위해서 만들어진 구분하지 않습니다.
+
+
+~ is there for a reason : 는 다 이유가 있다.
+for a reason : 이유로
+standard : 표준
+instead : 대신에
+obvious : 명확하다.
+distinguish between A and B : 구별하다.
+rare : 드물다. 희소하다
+specialized purposes: 특수한 목적
+there only for ~ : ~을 위해서만
+everyday : 일상적인
+
+
+"Ok, I can go with your schedule. Which features or responsibilities would you like me to sacrifice in order to make your deadline?”
+
+I can go with your schedule
+너의 스케쥴 대로 갈게.
+
+declare : 선언 하다.
+responsibility : 책임, 품질
+sacrifice : 희생
+in order to do something : ~하기 위해, 하려고
+
+
+opt in(to something) : ~에 참여 하기로 하다.
+Sender : 보내는 사람
+identification : 식별
+Verify : 확인하다
+pending verification :  인증 대기중
+
+
+
+```
+
+
 ### 01/04/2017
 ```
 메트로폴 파라솔에서 봤던 석양은 끝내줬어요.
