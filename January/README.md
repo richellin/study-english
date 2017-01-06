@@ -1,5 +1,65 @@
 ## January
 
+### 01/06/2017
+```
+지역 본부장님이 오늘 오신답니다.
+>The regional manager is visiting today.
+
+그래요? 저는 통보를 받지 못했는데요. 왜 오시는지 아세요?
+>Really? I didn't get a notification. Do you know why he's visiting?
+
+아마 지난 분기의 실적을 확인하고 싶으신가 봐요.
+>He probably wants to review our numbers from last quarter. 
+
+그거 징조가 안 좋은데요. 우리 예상 실적에 많이 못 미쳤잖아요.
+>That can't be good. We missed projections by quite a bit.
+
+통보를 받다, 소식을 듣다
+>get a notification
+
+소식 들으셨어요?
+>Did you get a notification?
+
+언제 통보를 받으신 거예요?
+>When did you get a notification?
+
+왜 난 소식을 못 들었을까?
+>How come I didn't get a notification?
+
+왜 ~한지 알아?
+>Do you know why?
+
+왜 그들이 계획을 바꿧는지 알아?
+>Do you know why they changed the plan?
+
+그가 왜 우리 곁을 떠났는지 알아?
+>Do you know why he left us?
+
+우리가 왜 실패했는지 알겠니?
+>Do you know why we failed?
+
+아마, 아마도
+>probably
+
+그들은 아마 이유를 알고 있을 거야.
+>they probably know reason.
+
+아마 너한테 사실대로 얘기를 해야겠다.
+>I probably have to tell you the truth.
+
+우리가 그들을 도와줘야 할까 봐.
+>I probably should help them.
+
+How come ~ : 왜(어째서)?
+regional manager : 지역 본부장
+probably : 아마
+quite a bit : 상당히, 많이
+regional : 지역의
+quarter : 1/4, 1분기
+review : 검토하다
+projections : (판매나 매출 등의)예상 수치
+```
+
 ### 01/05/2017
 ```
 닉, 이번 주말에 뭐 해?
