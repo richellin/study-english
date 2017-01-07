@@ -1,5 +1,148 @@
 ## January
 
+### 01/07/2017
+```
+요즘 나 스트레스가 엄청 심해.
+> I've been so stressed lately.
+
+그래, 너 우울해한다는 거 알고 있었어.
+> Yeah, I noticed you've been down.
+
+학교 공부에도 집중을 못해.
+> I can't even focus on my schoolwork.
+
+무슨 괴로운 일이라도 있니?
+> what is bothering you?
+
+지난주에 여자 친구랑 헤어졌어. 극복을 못하겠어.
+> I broke up with girlfriend last week. I can't get over it.
+
+그렇구나. 이해는 되는데 그래도 이겨 내야지. 이제 그만 정리하고 잊어.
+> I see. I feel for you but you have to get over it. It's time to move on.
+
+~라는 걸 알아차렸어.
+> I noticed ~.
+
+너 머리 색깔 바꿨더라.
+> I noticed you changed your hair color.
+
+걔네들 크게 싸웠다는 거 알게되었어.
+> I noticed they had a falling out.
+
+네가 결혼 반지를 안 끼고 있다는 걸 눈치챘지.
+> I noticed you're not wearing a wedding ring.
+
+~와 헤어지다
+> broke with ~
+
+나 최근에 그 사람이랑 헤어졌어.
+> I broke up with him recently
+
+너 왜 그녀랑 헤어진 거야?
+> Why did you broke up with her?
+
+그것 때문에 미나랑 헤어져야 했어.
+> I had to broke up with Mina because of that.
+
+~를 이겨 내다, 극복하다
+> get over ~
+
+그걸 이겨 내기가 힘들다.
+> It's hard to get over it.
+
+넌 이겨 내야 해.
+> You should get over it
+
+네가 그걸 이겨 내려면 내가 뭘 도와줄 수 있을까?
+> What can I do to help you over it?
+
+feel for : 동정하다, 공감하다.
+have a falling out : 사이가 틀어지다.
+hard to ~ : ~하기 힘들다.
+be stressed : 스트레스를 받다
+lately : 최근에, 요새
+focus on : ~에 집중하다
+bothering : 신경 쓰게 하다, 괴롭히다
+schoolwork : 학교 공부
+even : (예상 밖이나 놀라운 일을 나타내어)~도[조차]
+stress : 스트레스를 받다
+recently : 최근에
+
+It is important to exercise everyday.
+> 매일 운동하는건 중요하다.
+
+It is unnatural earning one million dollars for nothing.
+> 공짜로 100만 달러(10억)를 버는건 비정상적이다.
+
+It was Jane that/who met her friend yesterday in the library.
+> 어제 도서관에서 만난 친구는 제인이었다.
+
+It is my sister who is standing by the tree.
+> 나무 옆에 서있는 사람은 내 동생이다.
+
+It surprise me that he denied the story
+> 그가 그 이야기를 부정했다는게 나를 놀라게 했다.
+
+그녀는 미팅에 우리가 늦은 것에 대해 불평했다.
+> She complained about our coming to the meeting late.
+
+나는 너가 거기 가는 것을 이해할 수 없다.
+> I can't understand your going there.
+
+그가 나에게 전화하는 것은 모두를 놀라게 했다.
+> His calling me surprised everybody.
+
+그가 짧은 휴식시간에 대해서 불평하는 것은 문제를 야기시켰다.
+> His complaining about the short break time caused problems.
+
+나는 내가 시험보는 것에 대하여 생각했다
+> I thought about my taking a test.
+
+deny : 사실이 아니라고 말하다. 부인[부정]하다.
+short break time : 짧은 휴식시간
+cause : ~을 야기하다[초래하다]
+surprise : 놀래키다.
+come : 오다.
+complain : 불평[항의]하다.
+generosity : 너그러움
+for nothing : 공짜로
+earn : 돈을 벌다
+unnatural : 비정상적인
+exercise : 운동하다.
+notice : 주목하다.
+observe : 주시하다, 감찰하다.
+perceive : 감지하다
+
+One Sure-Fire Way to Improve Your Coding
+>코딩 실력을 개선하기 위한 확실한 방법
+
+Editor's Note: I originally wrote this for Fuel Your Coding back in May of 2010. Unfortunately, that site is now defunct, so I'm republishing the article here for posterity's sake.
+>작성자의 알림: 나는 원래 2010년 5월에 코딩실력에 부채질하기 (Fuel Your Coding)라는 글을 썼었다. 불행히도, 그 사이트는 사라 졌습니다. 그래서 나는 다시 후손을 위해서 글을 다시 쓰고 있습니다.
+
+I considered updating it for modern times, but I think it holds up well enough as is. The parts that don't hold up are a bit laughable, but oh well. Enjoy!
+>나는 현대에 맞게 업데이트를 고려했다. 그러나 나는 그런대로 잘 유지 했다라고 생각한다. 유지 하지 못한 부분들은 조금 우습 습니다.. 그러나 오 잘 즐겨라!
+
+parts : 부품, 부분
+well enough : 제법, 그런대로
+updating : 갱신한, 최신 정보
+laughable : 웃기는, 터무니없는
+hold up : 견기다, 유지하다
+modern times : 현대
+consider : 사려[고려/숙고]하다
+for posterity's sake : 후세를 위한 목적으로
+sake : [for the ~ of …, for …’s ~로] 동기, 이익; 목적; 원인, 이유
+posterity : 후세, 후대
+republishing : 다시 공포[선포]하다.
+defunct : (지금은) 현존하지[행해지지/사용되지] 않는
+Unfortunately : 유감스럽게도, 불행하게도
+Fuel : 부채질하다.
+May : 5월
+originally : 원래, 본래
+wrote : write의 과거
+Sure-Fire : 확실한,틀림없는
+Improve : 개선되다, 나아가다
+```
+
 ### 01/06/2017
 ```
 지역 본부장님이 오늘 오신답니다.
@@ -9,7 +152,7 @@
 >Really? I didn't get a notification. Do you know why he's visiting?
 
 아마 지난 분기의 실적을 확인하고 싶으신가 봐요.
->He probably wants to review our numbers from last quarter. 
+>He probably wants to review our numbers from last quarter.
 
 그거 징조가 안 좋은데요. 우리 예상 실적에 많이 못 미쳤잖아요.
 >That can't be good. We missed projections by quite a bit.
