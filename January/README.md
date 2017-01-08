@@ -1,4 +1,27 @@
 ## January
+### 01/08/2017
+```
+Retrofit
+A type-safe HTTP client for Android and Java
+> 안드로이드와 자바를 위한 type-safe HTTP 클라이언트
+
+type-safe : (computing) Not susceptible to the class of programming errors that could lead to items of one data type being incorrectly treated as another type.
+> (컴퓨팅) 다른 타입으로 잘못 취급되는 데이터 형식의 아이템들로 이어질수 있는 프로그래밍 에러들이 쉽게 일러나지 않게한다.
+
+data type being : 데이터 형식
+susceptible to : ~에 민감한, 걸리기 쉬운
+lead to : ~로 이어지다.
+incorrectly : 부정확하게
+treat as : (문제, 과장 등을) 처리하다, 취급하다 (=deal with)
+
+Introduction
+소개
+
+Retrofit turns your HTTP API into a Java interface.
+>Retrofit는 HTTP API를 자바 인터페이스로 변환 시킵니다.
+
+turn (from something) into something : (~에서) ~이 되다[~으로 변하다]
+```
 
 ### 01/07/2017
 ```
