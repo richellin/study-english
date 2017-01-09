@@ -1,4 +1,67 @@
 ## January
+
+### 01/08/2018
+```
+Expose : (보통 때는 가려져 있는 것을)드러내다.  
+alternatively : 그 대신에, 그렇지 않으면(둘째 대안을 소개할 때 씀)
+
+(한 여행자가 다가와서 묻는다.) 실례지만, 영어 하시나요?
+> (A traveler approaches and asks.) Excuse me, Do you speak english?
+
+네, 조금요.
+> Yes, a little.
+
+아, 잘됐네요. 영어 하시는 분을 찾을 수가 없었어요. 이 식당을 찾고 있는데요. 이게 어디 있는 건지 아시나요?
+> Oh, great. I couldn't find anyone who speaks english. I'm looking for this restaurant. Do you have any idea where it is?
+
+어디 봅시다. 아, 방금 지나치셨네요. 저쪽 뒤에 있어요, 약국 바로 옆에요.
+> Let me see. Oh,you just passed it. it's back that right next to that pharmacy.
+
+정말 감사합니다!
+> Thank you very much!
+
+~하는 사람을 못 찾았어.
+> I couldn't find anyone who ~.
+
+나를 도와줄 사람을 못 찾았어.
+> I couldn't find anyone who could help me.
+
+그 일을 할 수 있는 사람을 못 찾았어.
+> I couldn't find anyone who take the job.
+
+스페인어를 하는 사람을 못 찾았어.
+> I couldn't find anyone who speaks Spanish.
+
+어디서 ~하는지 아니?
+> Do you have any idea where ?
+
+그들이 이걸 어디서 찾았는지 알아?
+> Do you have any idea where they found it?
+
+그들이 어디 사람인지 알아?
+> Do you have any idea where they came from?
+
+서울에서 가장 맛있는 피자를 어디서 먹을 수 있는지 아세요?
+> Do you have any idea where I can get the best  pizza in Seoul?
+
+지나치다
+> pass
+
+실수로 지나쳤네.
+> I passed it by mistake.
+
+그 가게를 지나쳐 오셨어요.
+> You've just passed the store.
+
+지나쳐 버렸네, 다시 돌아가야 해.
+> I passed it,so I have to go back.
+
+looking for~ : ~를 찾다
+back : 뒤에
+right next to : ~ 바로 옆에
+pharmacy : 약국
+```
+
 ### 01/08/2017
 ```
 Retrofit
