@@ -1,6 +1,102 @@
 ## January
 
-### 01/08/2018
+### 01/10/2018
+```
+아야! 아, 이런, 피가 나네.
+> Ouch! Oh no, It's bleeding
+
+어디서 피가 나? 손가락 베었니, 라이언? 엄마가 가서 소독약이랑 밴드 가져올게.
+> What's bleeding? Did you cut your finger, Ryan? I'll go get some antiseptic and a band-aid.
+
+너무 아파요.
+> It hurts a lot.
+
+칼을 다룰 때는 더 조심해야지.
+> you should be more careful with knives.
+
+알아요, 엄마. 포장을 열려고 서두르다가 그만. 다음에는 더 주의하도록 할게요.
+> I know, Mom. I was in a rush to open my package. I'll try to be more cautious next time.
+
+그래, 그래야지. 지금은 상처에 물이 닿지 않게 하렴.
+> All right, that's good to hear. Keep the wound away from water for now.
+
+내가 가서 ~를 가져올게.
+> I'll go get ~
+
+가서 물 좀 가져올게.
+> I'll go get some water.
+
+가서 너 먹을 것 좀 가져올게.
+> I'll go get some food for you.
+
+내가 가서 읽을 책 좀 가져올게.
+> I'll go get some books to read.
+
+~를 다룰 때 더 조심하는
+> more careful with ~
+
+그거 만질 때는 더 조심해.
+> Be more careful with that.
+
+이 칼을 다룰 때는 더 조심해야 해.
+> You need to be more careful with this knife.
+
+그 칼을 만질 때 더 조심했어야지.
+> You should've been more careful with that knife.
+
+바쁘다, 서두르다
+> be in a rush
+
+바빴어?
+> Were you in a rush?
+
+왜 서두르는 거야?
+> How come you are in a rush?
+
+내가 서둘러서 실수를 했어.
+> I was in a rush, so I made a mistake.
+
+bleed : 피를 흘리다, 피가 나다
+cut one's finger : 손가락을 베이다
+knife : 칼
+cautious: 조심하는, 주의를 기울이는
+
+assume : (권력・책임을) 맡다
+moderate : 중간의
+Best case : 최고의 경우
+Likely case : 가능한 경우
+Worse case : 나쁜 경우
+Worst case : 최악의 경우
+It is ~ for A to부정사 : A에 있어서 ~ 하는건 ~다.
+It is ~ of A to부정사 : ~하다니, A는 ~다.
+It is ~ for A : A에게 있어서 ~다.
+mostly : 주로
+these days : 요즘
+assign duties : 역할을 안배하다.
+work-related : 일과 관련된
+audience members : 청중들
+appearance : 출현
+
+I want for you to go to Hawaii
+>니가 하와이에 갔으면 좋겠다.(애절함 + 감정(>= Go to Hawaii)
+
+prosperous : 번창한, 번영한
+most prosperous year : 가장 번영했던 년
+
+want for : ~이 필요하다(=be in need of)
+ask : 부탁하다[요청하다]
+
+All I am asking is for cell phone users to have some Respect for others.
+내가 요청하는 모든것은 휴대폰 사용자들이 다른 사람들을 존중하는것이다.
+
+literally : 문자[말] 그대로
+attempt to : ~ 하려고 시도하다.
+rip : 찢다.
+acquire : [노력, 능력으로] 습득하다[얻다]
+productivity : 생산성
+```
+
+### 01/09/2018
 ```
 Expose : (보통 때는 가려져 있는 것을)드러내다.  
 alternatively : 그 대신에, 그렇지 않으면(둘째 대안을 소개할 때 씀)
