@@ -1,6 +1,73 @@
 ## January
 
-### 01/10/2018
+### 01/10/2017
+```
+사업은 어때요?
+> How's your business going?
+
+별로예요. 몇 달 전에 접었어요.
+> Not so well. It went under a couple month ago.
+
+이런! 안됐네요! 어떻게 지내고 있어요?
+> Oh my! That's not good! How are you getting by?
+
+부모님 댁으로 다시 들어갔어요. 카페에서 아르바이트를 하고요.
+> I moved back in with my parents. I am working part-time at a cafe
+
+뭐, 그래도 당신에게 힘이 되어 주는 사랑하는 가족이 있잖아요.
+> Well, at least you have a loving family to support you.
+
+네, 전 정말 행운아예요. 가족들 곁에서 절대 희망을 잃지 않을 거예요.
+> Yeah, I'm so lucky. I'll never lose hope with them around.
+
+~는 어떻게 되어 가고 있어?
+> How's ~ going?
+
+어떻게 지내?
+> How's it going?
+
+일은 어때?
+> How's your work going?
+
+프로젝트는 어떻게 되어가고 있어?
+> How's your project going?
+
+(사업 등이) 망하다
+> go under
+
+안타깝게도, 내 사업이 망했어.
+> Unfortunately, my business went under.
+
+남편 사업이 2년 전에 망했어.
+> My husband's business went under two years ago.
+
+사업이 망하면 어떡하지?
+> What if my business goes under?
+
+희망을 잃다
+> lose hope
+
+절대로 희망을 잃지 마.
+>Never lose hope.
+
+무슨 일이 있어도 희망을 잃지 마.
+>Don't lose hope no matter what.
+
+우리가 희망을 잃으면 영혼이 시드는 거야.
+>Our soul dies when we lose hope.
+
+a couple months ago : 몇 달 전
+Unfortunately : 안타깝게도
+What if : ~면 어쩌지?
+no matter what : 비록 무엇이 ~한다 하더라도
+get by : 그럭저럭 지내다, 살아가다
+move back in : 다시 들어가다
+work part-time : 아르바이트[시간제]로 일하다
+support : 지지하다, 응원하다, 힘이 되어 주다
+at least : 적어도
+```
+
+### 01/10/2017
 ```
 아야! 아, 이런, 피가 나네.
 > Ouch! Oh no, It's bleeding
@@ -96,7 +163,7 @@ acquire : [노력, 능력으로] 습득하다[얻다]
 productivity : 생산성
 ```
 
-### 01/09/2018
+### 01/09/2017
 ```
 Expose : (보통 때는 가려져 있는 것을)드러내다.  
 alternatively : 그 대신에, 그렇지 않으면(둘째 대안을 소개할 때 씀)
