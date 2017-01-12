@@ -1,4 +1,73 @@
 ## January
+### 01/11/2017
+```
+나 숨차.
+> I'm out of breath
+
+너 또 여기 자전거 타고 왔어?
+> You rode your bicycle here again?
+
+응, 그랬어. 난 학교 오면서 운동하는 게 너무 좋아.
+> Yeah, I did. I love getting exercise while coming to school.
+
+차량들 틈에서 타는 게 위험하지 않아?
+> Isn't it dangerous to ride in traffic?
+
+자전거 전용 도로가 없을 땐, 그렇지. 그런데 난 천천히, 안전하게 타려고 해.
+> When there are no bike lanes, yes. But I try to ride slowly and safely.
+
+그렇구나. 자, 여기, 물 좀 마시고 숨 좀 돌려.
+> I see, Hey, here, drink some water and catch your breath.
+
+숨이 차다
+> be out of breath
+
+너 숨차 보여.
+> You look like you're out of breath.
+
+여기까지 뛰어왔더니 숨이 차네.
+> I'm out of breath because I ran here.
+
+나 지금 숨이 차니까, 우리 이따가 얘기하자.
+> I'm out of breath right now, so Let's talk about it later.
+
+~하는 거 위험하지 않아?
+> Isn't it dangerous to ~?
+
+너무 빨리 운전하는 거 위험하지 않니?
+> Isn't it dangerous to drive too fast?
+
+바다에서 수영하는 거 위험하지 않아?
+> Isn't it dangerous to swim in the ocean?
+
+저 담장 위에 앉는 거 위험하지 않아?
+> Isn't it dangerous to sit on that fence.
+
+숨을 고르다, 숨을 돌리다
+> catch one's breath
+
+진정하고 숨 좀 돌려.
+> Take it easy and catch your breath.
+
+우선 숨 좀 돌릴게.
+> Let me catch my breath first.
+
+앉아서 숨 좀 돌려.
+> Sit down and catch your breath.
+
+ride one's bicycle : 자전거를 타다
+get exercise : 운동을 하다
+bike lane: 자전거 전용 도로
+safely : 안전하게
+break up : 해산하다
+put an end to : ~에 종지부를 찍다.
+career : 업무
+although : ~인데, ~이지만
+ups and downs : 오르락 내리락
+grow into ~ : 성장해서 ~ 가 되다.
+numerous : 많은, 무수의
+raise : (자금, 사람 등을) 모으다.
+```
 
 ### 01/10/2017
 ```
