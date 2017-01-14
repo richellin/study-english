@@ -1,5 +1,90 @@
 ## January
-### 01/11/2017
+### 01/13/2017
+```
+또 주말이 오는구나.
+> Another weekend is coming up.
+
+이번 주말에는 쉴 수 있었으면 좋겠어.
+> I hope we can relax this weekend.
+
+그러게 말이야. 아무 일도 안 생기면 좋겠다.
+> Tell me about it. I don't want anything to come up.
+
+우리 전화기를 꺼 놓으면 어떨까?
+> How about we turn off our phones?
+
+주말 내내? 그렇게 오래 전화기 없이 살 수 있겠어?
+> For the whole weekend? Can you live without your phone that long?
+
+음… 못할 것 같네. 없었던 얘기로 해.
+> Hmm... maybe not. Forget that idea.
+
+~가 다가오고 있네.
+> ~ is coming up.
+
+네 생일이 다가오고 있구나.
+> your birthday is coming up.
+
+파티가 다가오고 있네.
+> The party is coming up.
+
+우리 결혼기념일이 다가오고 있네요.
+> Our anniversary is coming up.
+
+주말 내내
+> the whole weekend.
+
+난 주말 내내 집에 있었어.
+> I stayed in the whole weekend.
+
+주말 내내 거기 있을 거야?
+> Will you be there the whole weekend?
+
+주말 내내 공부했어?
+> Did you study the whole weekend?
+
+너 ~ 없이 살 수 있어?
+> Can you live without ~?
+
+넌 나 없이 살 수 있니?
+> Can you live without me?
+
+넌 컴퓨터 없이 살 수 있어?
+> Can you live without a computer?
+
+넌 인터넷 하지 않고 살 수 있어?
+> Can you live without internet access?
+
+anniversary : 기념일
+relax : 긴장을 풀다, 쉬다
+come up : (일 등이) 생기다; 다가오다
+turn off : ~를 끄다
+that long : 그렇게 오래, 그렇게 오랫동안
+restrict : 제한하다
+eventually : 결국, 종내
+measure : 측정하다
+launch tiny satellite : 작은 위성 발사하다
+according to : (진술, 기록등에) 따르면
+generate : 바랭시키다, 만들어 내다
+industry : 산업, 공업, 제조업
+pave  : 포장도로
+expect : 기대하다
+parliament : 의원, 국회
+boost : 신장시키다, 북돋우다
+struggling economy : 침체된 경제
+roll (the) dice : 주사위를 던지다.
+dice : 주사위
+incident : 사건
+mighty : (특히 문예체)강력한, 힘센
+verify : (진실인지, 정확한지) 확인하다
+enrollment request : 등록 요청
+authority to bind your organization to ~ : 귀하의 조직이 의무를 지킬수 있는 권한
+authority : ~(to do sth)~에 ~할 권한
+instruction : 지시
+
+```
+
+### 01/12/2017
 ```
 나 숨차.
 > I'm out of breath
@@ -69,7 +154,7 @@ numerous : 많은, 무수의
 raise : (자금, 사람 등을) 모으다.
 ```
 
-### 01/10/2017
+### 01/11/2017
 ```
 사업은 어때요?
 > How's your business going?
