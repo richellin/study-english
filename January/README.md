@@ -1,4 +1,69 @@
 ## January
+### 01/14/2017
+```
+엄마, 저 너무 스트레스 받아요.
+> Mom, I'm so stressed out.
+
+그렇겠지. 성적이 떨어지고 있잖니.
+> I bet. your glades are slipping.
+
+최선을 다하고 있는데도, 성적이 더 나아지질 않아요. 도움이 필요해요, 엄마.
+> I'm doing the best, but I can't get better glades. I need some help, Mom
+
+솔직히 말해 줘서 고맙구나. 온라인 강좌를 들어 보는 게 어떻겠니?
+> Thanks for being honest with me. Why don't you find an online tutor?
+
+좋은 생각이에요, 엄마. 강의료 내 주실 거죠?
+> That's good idea, Mom. Will you pay for one?
+
+네 성적이 나아지기만 한다면 뭐. 몇 달만 해 보자.
+> As long as your glades improve. Let's try it out for a couple months.
+
+성적이 더 나아지다, 성적이 오르다
+> get better glades
+
+어떻게 하면 성적을 올릴 수 있을까요?
+> How can I get better glades?
+
+난 성적을 올리고 싶어.
+> I'd love to get better grades.
+
+성적이 올라서 기뻐.
+> I'm happy because I got better glades.
+
+~에 대한 비용을 내실 건가요
+> Will you pay for ~?
+
+이거 돈 내실 거예요?
+> Will you pay for it?
+
+전부 다 내실 건가요?
+> Will you pay for everything?
+
+손해액을 지불하실 건가요?
+> Will you pay for the damage?
+
+~하는 한, ~하기만 하다면
+> As long as
+
+네가 우리랑 같이 가기만 하면, 내가 저녁 살게.
+> As long as join us, I will buy dinner.
+
+네가 나를 지지해 준다면, 내가 이길 거야.
+> As long as you support me, I will win.
+
+네가 이 일을 맡기만 한다면, 돈 걱정은 안 해도 될 거야.
+> As long as you take this job, You won't have to worry about money.
+
+stress out : 스트레스를 받다.
+be honest with : ~에게 정직[솔직]하게 말하다.
+try somebody/something out : (성능, 효력 등을 알아보기 위해) ~을(~에게) 테스트해[시험적으로 사용해]보다.
+slip : 미끄러지다, 떨어지다
+glade : 성적
+honest : 솔직한, 정직한
+improve : 향상되다, 좋아지다
+```
+
 ### 01/13/2017
 ```
 또 주말이 오는구나.
