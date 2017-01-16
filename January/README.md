@@ -1,4 +1,63 @@
 ## January
+### 01/16/2017
+```
+지난달에 이 겨울 코트를 사서 정말 신났어. 근데 전에 입던 건 어떻게 해야 할지 모르겠네.
+> Last month I was so excited to get this winter jacket, but I don't know what to do with my old one.
+
+그거 입고 싶어 할 만한 누군가가 떠올라?
+> Can you think of anybody that would like to have it?
+
+이게 필요한 사람이 생각이 안 나네.
+> I can’t think of anybody in need of one.
+
+그럼 자선 단체에 기증하면 되지. 다른 거 뭐 더 기증할 거 있어?
+> We can always donate it to charity. Do you have anything else to donate?
+
+뭘 더 정리할 수 있는지 볼게.
+> 뭘 더 정리할 수 있는지 볼게.
+
+~해서 진짜 신났어
+> I was so excited to ~
+
+선생님을 직접 뵙게 되어서 정말 신났어요.
+> I was so excited to meet you in person.
+
+본 조비 콘서트 무료 티켓을 구해서 정말 기분이 좋았어.
+> I was so excited to get a free ticket to the Bon Jovi concert.
+
+그렇게 오래간만에 친한 친구를 보게 되어서 아주 신났어.
+> I was so excited to see my best friend after so long.
+
+~하는 사람 누구 생각나?
+> Can you think of anybody that ~?
+
+우리를 도와줄 수 있는 누군가가 떠오르니?
+> Can you think of anybody that can help us?
+
+우리에게 합류할 만한 누군가가 생각나니?
+> Can you think of anybody that can join us?
+
+내일 한가한 사람이 떠오르니?
+> Can you think of anybody that is free tomorrow?
+
+다른 어떤 걸 내가 ~할 수 있는지 볼게.
+>Let me see what else I can ~.
+
+내가 너한테 또 다른 거 뭘 해 줄 수 있는지 볼게.
+> Let me see what else I can do for you. 듣기
+
+내가 그들에게 또 다른 거 뭘 줄 수 있는지 볼게.
+> Let me see what else I can give to them.
+
+내가 너에게 그 밖에 무엇을 도와줄 수 있을지 볼게.
+> Let me see what else I can help you with.
+
+winter jacket : 겨울 코트, 외투
+in need of ~ : ~가 필요한
+donate : 기증하다, 기부하다
+charity : 자선 단체
+```
+
 ### 01/14/2017
 ```
 엄마, 저 너무 스트레스 받아요.
